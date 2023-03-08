@@ -1,0 +1,10 @@
+POST http://localhost:4220/signup
+Content-Type: "application/json"
+
+
+{
+    "fullName":"Amos Wachira",
+    "userName":"amo15310",
+    "email":"amo@gmail.com",
+    "password":"amo1234"
+}
